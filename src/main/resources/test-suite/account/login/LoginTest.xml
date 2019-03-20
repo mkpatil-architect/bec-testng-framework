@@ -1,0 +1,14 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<suite name="LoginTest" verbose="1" preserve-order="true">
+    <listeners>
+        <!--   <listener class-name=" " />
+           <listener class-name=" " /> -->
+
+    </listeners>
+    <test name="Login Tesing">
+        <classes>
+            <class name="com.bec.api.automation.usecases.account.login.Login"/>
+        </classes>
+    </test>
+</suite>

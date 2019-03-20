@@ -1,0 +1,42 @@
+{
+    "orderId": "22", 
+    "shipments": [
+        {
+            "products": [
+                {
+                    "sku": "56584253", 
+                    "storeList": [
+                        {
+                            "quantitySent": 1, 
+                            "storeId": "9923"
+                        }, 
+                        {
+                            "quantitySent": 1, 
+                            "storeId": "2005"
+                        }
+                    ], 
+                    "unfulfilledQuantityNoInventory": 3, 
+                    "unfulfilledQuantityNoCapacity": 0
+                }, 
+                {
+                    "sku": "56584254", 
+                    "storeList": [
+                        {
+                            "quantitySent": 1, 
+                            "storeId": "9920"
+                        }, 
+                        {
+                            "quantitySent": 1, 
+                            "storeId": "2005"
+                        }
+                    ], 
+                    "unfulfilledQuantityNoInventory": 3, 
+                    "unfulfilledQuantityNoCapacity": 0
+                }
+            ], 
+            "shipmentId": "S7302912301"
+        }
+    ], 
+    "postTimeStamp": "2017-03-23T06:17:48+00:00", 
+    "correlationId": "abcxyz123qwertyrt"
+}

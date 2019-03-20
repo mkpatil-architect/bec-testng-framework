@@ -1,0 +1,13 @@
+ <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+        <!-- <suite preserve-order="true" verbose="1" name="Master Suite Details"
+            parallel="tests" thread-count="3" > -->
+<suite preserve-order="true" verbose="1" name="Master Suite Details">
+<listeners>
+    <listener class-name="com.bec.api.automation.report.ExtentReporterNG"/>
+</listeners>
+<suite-files>
+    <suite-file path="account/login/LoginTest.xml"/>
+
+</suite-files>
+</suite>

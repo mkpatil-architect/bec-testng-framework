@@ -1,0 +1,13 @@
+{
+    "data": {
+        "operatingPeriods": [], 
+        "country": "US", 
+        "brand": "01", 
+        "storeId": "2016", 
+        "zipCode": "60134", 
+        "state": "IL", 
+        "shipmentsCapacity": 12, 
+        "enableShipFromStore": true, 
+        "storeType": "REGULAR_STORE"
+    }
+}

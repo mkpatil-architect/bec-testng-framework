@@ -1,0 +1,5 @@
+com.erx.microtester.datautils.generator.impl.IntegerDataGenerator
+com.erx.microtester.datautils.generator.impl.StringDataGenerator
+com.erx.microtester.datautils.generator.impl.TimestampDataGenerator
+com.erx.microtester.datautils.generator.impl.DoubleDataGenerator
+com.erx.microtester.datautils.generator.impl.FloatDataGenerator

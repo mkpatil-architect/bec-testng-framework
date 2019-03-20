@@ -1,0 +1,13 @@
+{
+    "data": {
+        "operatingPeriods": [], 
+        "country": "US", 
+        "brand": "01", 
+        "storeId": "2001", 
+        "zipCode": "10601", 
+        "state": "NY", 
+        "shipmentsCapacity": 12, 
+        "enableShipFromStore": true, 
+        "storeType": "REGULAR_STORE"
+    }
+}

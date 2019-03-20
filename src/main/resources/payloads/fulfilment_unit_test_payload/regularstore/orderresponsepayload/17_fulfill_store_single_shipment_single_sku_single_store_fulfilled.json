@@ -1,0 +1,23 @@
+{
+    "shipments": [
+        {
+            "products": [
+                {
+                    "sku": "36584220", 
+                    "storeList": [
+                        {
+                            "quantitySent": 1, 
+                            "storeId": "2030"
+                        }
+                    ], 
+                    "unfulfilledQuantityNoInventory": 0, 
+                    "unfulfilledQuantityNoCapacity": 0
+                }
+            ], 
+            "shipmentId": "S7302912301"
+        }
+    ], 
+    "orderId": "17", 
+    "postTimeStamp": "2017-03-23T06:17:48+00:00", 
+    "correlationId": "abcxyz123qwertyrt"
+}

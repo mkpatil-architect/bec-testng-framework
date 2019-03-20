@@ -1,0 +1,49 @@
+{
+  "data": {
+    "timeStamp": "2017-03-23T06:17:48+00:00",
+    "brand": "01",
+    "uuid": "abc123",
+    "inventoryVals": [
+      {
+        "sku": "56584235",
+        "storeId": "9920",
+        "quantity": 1
+      },
+      {
+        "sku": "66584200",
+        "storeId": "9920",
+        "quantity": 1
+      },
+      {
+        "sku": "56584236",
+        "storeId": "9923",
+        "quantity": 1
+      },
+      {
+        "sku": "66584201",
+        "storeId": "9923",
+        "quantity": 1
+      },
+      {
+        "sku": "56584235",
+        "storeId": "2001",
+        "quantity": 1
+      },
+      {
+        "sku": "66584200",
+        "storeId": "2001",
+        "quantity": 1
+      },
+      {
+        "sku": "56584236",
+        "storeId": "2002",
+        "quantity": 1
+      },
+      {
+        "sku": "66584201",
+        "storeId": "2002",
+        "quantity": 1
+      }
+    ]
+  }
+}

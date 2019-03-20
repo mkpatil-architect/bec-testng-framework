@@ -1,0 +1,28 @@
+{
+  "data": {
+    "uuid": "abc123",
+    "timeStamp": "2017-03-23T06:17:48+00:00",
+    "brand": "01",
+    "inventoryVals": [
+      {
+        "sku": "36584245",
+        "storeId": "2019",
+        "quantity": 1
+      },
+      {
+        "sku": "46584202",
+        "storeId": "2019",
+        "quantity": 1
+      },
+      {
+        "sku": "36584246",
+        "storeId": "2020",
+        "quantity": 1
+      },{
+        "sku": "46584203",
+        "storeId": "2020",
+        "quantity": 1
+      }
+    ]
+  }
+}

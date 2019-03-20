@@ -1,0 +1,13 @@
+{
+    "data": {
+        "operatingPeriods": [],
+        "country": "CA",
+        "brand": "01",
+        "storeId": "9920",
+        "zipCode": "H4R 3J2",
+        "state": "QC",
+        "shipmentsCapacity": 12,
+        "enableShipFromStore": true,
+        "storeType": "DC"
+    }
+}

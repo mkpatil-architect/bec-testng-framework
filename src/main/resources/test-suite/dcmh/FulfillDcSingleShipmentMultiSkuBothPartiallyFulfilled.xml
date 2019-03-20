@@ -1,0 +1,14 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<suite name="Fulfill Dc Single Shipment Multi Sku Both Partially Fulfilled" verbose="1" preserve-order="true">
+    <listeners>
+        <!--   <listener class-name=" " />
+           <listener class-name=" " /> -->
+
+    </listeners>
+    <test name="Fulfill Dc Single Shipment Multi Sku Both Partially Fulfilled For Tesing">
+        <classes>
+            <class name="com.bec.api.automation.usecases.fulfilmentunittestcase.dcmh.FulfillDcSingleShipmentMultiSkuBothPartiallyFulfilled"/>
+        </classes>
+    </test>
+</suite>

@@ -1,0 +1,29 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<suite name="UnitTestcaseMasterSuiteForRegularStore" verbose="1" preserve-order="true">
+
+    <suite-files>
+
+        <suite-file path="FulfillStoreMultiShipmentMultiSkuMultiStoreFulfilled.xml"/>
+        <suite-file path="FulfillStoreMultiShipmentMultiSkuMultiStorePartiallyFulfilled.xml"/>
+        <suite-file path="FulfillStoreMultiShipmentMultiSkuSingleStoreFulfilled.xml"/>
+        <suite-file path="FulfillStoreMultiShipmentMultiSkuSingleStorePartiallyFulfilled.xml"/>
+        <suite-file path="FulfillStoreMultiShipmentMultiSkuUnfulfilled.xml"/>
+        <suite-file path="FulfillStoreMultiShipmentSingleSkuSingleStoreFulfilled.xml"/>
+        <suite-file path="FulfillStoreMultiShipmentSingleSkuUnfulfilledNoInventory.xml"/>
+        <suite-file path="FulfillStoreNegativeQuantity.xml"/>
+        <suite-file path="FulfillStoreSingleShipmentMultiSkuMultiStoreFulfilled.xml"/>
+        <suite-file path="FulfillStoreSingleShipmentMultiSkuMultiStorePartiallyFulfilled.xml"/>
+        <suite-file path="FulfillStoreSingleShipmentMultiSkuSingleStoreFulfilled.xml"/>
+        <suite-file path="FulfillStoreSingleShipmentMultiSkuSingleStorePartiallyFulfilled.xml"/>
+        <suite-file path="FulfillStoreSingleShipmentMultiSkuUnfulfilledNoInventory.xml"/>
+        <suite-file path="FulfillStoreSingleShipmentSingleSingleSkuUnfulfilledNoInventory.xml"/>
+        <suite-file path="FulfillStoreSingleShipmentSingleSkuMultiStoreFulfilled.xml"/>
+        <suite-file path="FulfillStoreSingleShipmentSingleSkuSingleStoreFulfilled.xml"/>
+        <suite-file path="FulfillStoreSingleShipmentSingleSkuSingleStorePartiallyFulfilled.xml"/>
+        <suite-file path="FulfillStoreZeroQuantity.xml"/>
+
+
+    </suite-files>
+
+</suite>

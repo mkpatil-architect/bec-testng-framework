@@ -1,0 +1,28 @@
+{
+    "data": {
+        "orderId": "1630051994",
+        "shipments": [
+            {
+                "country": "US", 
+                "promiseDate": "2017-03-29", 
+                "zipCode": "02111", 
+                "shipToStoreFlag": false, 
+                "state": "MA", 
+                "products": [
+                    {
+                        "sku": "36584221", 
+                        "weightUnitOfMeasure": "lb", 
+                        "weight": 1, 
+                        "quantity": 2
+                    }
+                ], 
+                "shipmentId": "S7302912301"
+            }
+        ], 
+        "processRealTimeFlag": true, 
+        "brand": "01", 
+        "postTimeStamp": "2017-03-23T06:17:48+00:00", 
+        "createDateTime": "2017-03-23T06:17:48+00:00", 
+        "correlationId": "abcxyz123qwertyrt"
+    }
+}

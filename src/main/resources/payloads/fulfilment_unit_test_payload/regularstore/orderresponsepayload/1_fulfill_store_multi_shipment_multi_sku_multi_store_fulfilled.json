@@ -1,0 +1,61 @@
+{
+  "shipments": [
+    {
+      "products": [
+        {
+          "sku": "36584235",
+          "storeList": [
+            {
+              "quantitySent": 1,
+              "storeId": "2012"
+            }
+          ],
+          "unfulfilledQuantityNoInventory": 0,
+          "unfulfilledQuantityNoCapacity": 0
+        },
+        {
+          "sku": "46584200",
+          "storeList": [
+            {
+              "quantitySent": 1,
+              "storeId": "2012"
+            }
+          ],
+          "unfulfilledQuantityNoInventory": 0,
+          "unfulfilledQuantityNoCapacity": 0
+        }
+      ],
+      "shipmentId": "S7302912301"
+    },
+    {
+      "products": [
+        {
+          "sku": "36584236",
+          "storeList": [
+            {
+              "quantitySent": 1,
+              "storeId": "2013"
+            }
+          ],
+          "unfulfilledQuantityNoInventory": 0,
+          "unfulfilledQuantityNoCapacity": 0
+        },
+        {
+          "sku": "46584201",
+          "storeList": [
+            {
+              "quantitySent": 1,
+              "storeId": "2013"
+            }
+          ],
+          "unfulfilledQuantityNoInventory": 0,
+          "unfulfilledQuantityNoCapacity": 0
+        }
+      ],
+      "shipmentId": "S7302912302"
+    }
+  ],
+  "orderId": "1",
+  "postTimeStamp": "2017-03-23T06:17:48+00:00",
+  "correlationId": "abcxyz123qwertyrt"
+}

@@ -1,0 +1,5 @@
+{
+  "key": "${sys:SysKey}",
+  "id": "${sys:SysId}",
+  "description": "${sys:SysLongText}"
+}

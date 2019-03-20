@@ -1,0 +1,13 @@
+{
+    "data": {
+        "operatingPeriods": [], 
+        "country": "US", 
+        "brand": "01", 
+        "storeId": "2021", 
+        "zipCode": "19090", 
+        "state": "PA", 
+        "shipmentsCapacity": 12, 
+        "enableShipFromStore": true, 
+        "storeType": "REGULAR_STORE"
+    }
+}

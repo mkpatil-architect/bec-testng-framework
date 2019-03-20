@@ -1,0 +1,56 @@
+{
+    "data": {
+        "orderId": "4", 
+        "shipments": [
+            {
+                "country": "US", 
+                "promiseDate": "2017-03-29", 
+                "zipCode": "02111", 
+                "shipToStoreFlag": false, 
+                "state": "MA", 
+                "products": [
+                    {
+                        "sku": "56584243", 
+                        "weightUnitOfMeasure": "lb", 
+                        "weight": 1, 
+                        "quantity": 2
+                    }, 
+                    {
+                        "sku": "66584206", 
+                        "weightUnitOfMeasure": "lb", 
+                        "weight": 1, 
+                        "quantity": 2
+                    }
+                ], 
+                "shipmentId": "S7302912301"
+            }, 
+            {
+                "country": "US", 
+                "promiseDate": "2017-03-29", 
+                "zipCode": "02111", 
+                "shipToStoreFlag": false, 
+                "state": "MA", 
+                "products": [
+                    {
+                        "sku": "56584244", 
+                        "weightUnitOfMeasure": "lb", 
+                        "weight": 1, 
+                        "quantity": 2
+                    }, 
+                    {
+                        "sku": "66584207", 
+                        "weightUnitOfMeasure": "lb", 
+                        "weight": 1, 
+                        "quantity": 2
+                    }
+                ], 
+                "shipmentId": "S7302912302"
+            }
+        ], 
+        "processRealTimeFlag": true, 
+        "brand": "01", 
+        "postTimeStamp": "2017-03-23T06:17:48+00:00", 
+        "createDateTime": "2017-03-23T06:17:48+00:00", 
+        "correlationId": "abcxyz123qwertyrt"
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "data": {
+        "operatingPeriods": [], 
+        "country": "US", 
+        "brand": "01", 
+        "storeId": "2019", 
+        "zipCode": "48377", 
+        "state": "MI", 
+        "shipmentsCapacity": 12, 
+        "enableShipFromStore": true, 
+        "storeType": "REGULAR_STORE"
+    }
+}

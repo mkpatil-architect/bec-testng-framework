@@ -1,0 +1,13 @@
+{
+    "data": {
+        "operatingPeriods": [], 
+        "country": "US", 
+        "brand": "01", 
+        "storeId": "2012", 
+        "zipCode": "77056", 
+        "state": "TX", 
+        "shipmentsCapacity": 12, 
+        "enableShipFromStore": true, 
+        "storeType": "REGULAR_STORE"
+    }
+}

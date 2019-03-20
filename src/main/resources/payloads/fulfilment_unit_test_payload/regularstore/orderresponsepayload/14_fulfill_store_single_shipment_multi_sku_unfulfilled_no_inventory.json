@@ -1,0 +1,24 @@
+{
+    "shipments": [
+        {
+            "products": [
+                {
+                    "sku": "36584227", 
+                    "storeList": [], 
+                    "unfulfilledQuantityNoInventory": 1, 
+                    "unfulfilledQuantityNoCapacity": 0
+                }, 
+                {
+                    "sku": "36584228", 
+                    "storeList": [], 
+                    "unfulfilledQuantityNoInventory": 1, 
+                    "unfulfilledQuantityNoCapacity": 0
+                }
+            ], 
+            "shipmentId": "S7302912301"
+        }
+    ], 
+    "orderId": "14", 
+    "postTimeStamp": "2017-03-23T06:17:48+00:00", 
+    "correlationId": "abcxyz123qwertyrt"
+}

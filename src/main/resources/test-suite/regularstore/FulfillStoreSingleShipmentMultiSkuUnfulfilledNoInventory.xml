@@ -1,0 +1,14 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Fulfill Store Single Shipment Multi Sku Unfulfilled No Inventory" verbose="1"
+       preserve-order="true">
+    <listeners>
+        <!--   <listener class-name=" " />
+          <listener class-name=" " /> -->
+    </listeners>
+    <test name="Fulfill Store Single Shipment Multi Sku Unfulfilled No Inventory For Testing ">
+        <classes>
+            <class name="com.bec.api.automation.usecases.fulfilmentunittestcase.regularstore.FulfillStoreSingleShipmentMultiSkuUnfulfilledNoInventory"/>
+
+        </classes>
+    </test>
+</suite>
